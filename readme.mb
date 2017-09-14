@@ -1,0 +1,22 @@
+1. Download the mmd_tools add-on (powroupi fork) from here:
+
+mmd_tools direct download
+https://github.com/powroupi/blender_mmd_tools/archive/dev_test.zip
+
+mmd_tools main page
+https://github.com/powroupi/blender_mmd_tools
+
+mmd_tools issues/bug reports
+https://github.com/powroupi/blender_mmd_tools/issues
+
+In the unzipped folder is a folder called mmd_tools. Copy the mmd_tools folder into Blender's scripts/add-ons folder. After opening Blender, click File, User Preferences. In User Preferences, Add-ons, Object, find the Object:mmd_tools add_on and click to put a checkmark in the little box beside it and to enable it. Beside where it says "Shared Toon Texture Folder", navigate to, and select, the Data directory of MikuMikuDance, so that the standard MMD toon textures will be used with your imported MMD models. Click "Save User Preferences" before exiting out of User Preferences.
+3.Download the MMD translations dictionary file from here:
+   (to be added)
+
+After unzipping this file (with 7-zip or Bandizip, for example), Copy the translations.csv file into the mmd_tools folder, into the same directory where a file named translations.py is already located. Do not rename the translations.csv file. It must have exactly the same name as the translations.py file, except for the .csv extension. 
+
+Import a .pmd or .pmx model into Blender. Click File, Import, MikuMikuDance model (.pmd .pmx).
+
+In the mmd_tool panel (whose tab is on the left side of the 3D view), click on the Translate button. This causes a popup dialog box to appear. Ignore the Dictionary dropdown list, unless you have loaded your own translation dictionary into Blender's text editor. Click OK. English names will then be mass added onto your imported MMD model(s) within several seconds or within a fraction of a second.
+
+You can then export this model from Blender with mmd_tools with all of its new English names of morphs, bones, display panel groups, physics, and materials. Click File, Export, MikuMikuDance model (.pmx) to export the model.

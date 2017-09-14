@@ -1,0 +1,3 @@
+This mmd_tools translations.csv dictionary file is distributed under the terms of the
+"Don't worry, be happy, it's free!" license."
+Don't worry, it's free!
