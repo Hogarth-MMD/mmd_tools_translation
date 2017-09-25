@@ -2,7 +2,7 @@ Converting BVH animations to VMD animations can be a bit complicated, and you wi
 
 LIST OF POSSIBLE ISSUES AND THEIR SOLUTIONS:
 
-1. The Blender BVH importer has a bug. (This is true with Blender 2.78c and earlier. Maybe later this bug will be corrected.) If you try to import a BVH file which has Japanese bone names, it won't import into Blender, and you will get an error message. This simple bug fix will work if your BVH file is a unicode utf-8 text file:
+1. The Blender BVH importer has a bug. If you try to import a BVH file which has Japanese bone names, it won't import into Blender, and you will get an error message. This simple bug fix will work if your BVH file is a unicode utf-8 text file:
 
 Open this file (from the Blender program folder) in a text editor, such as Notepad++:
 scripts\addons\io_anim_bvh\import_bvh.py
@@ -18,14 +18,17 @@ When you import a BVH animation into Blender, an "Import BVH" options panel appe
 
 3. The scale(size) of the armature in a BVH file may be different from the scale of the armature of an MMD model.
 When you import a BVH animation into Blender, an "Import BVH" options panel appears at the lower left. In Blender's Import BVH options panel, beside the word "Scale", input the Scale that you want. The information on this page can give you some idea of how you may need to calculate the correct scaling for your imported BVH animation:
+
 https://hogarth-mmd.deviantart.com/journal/1-MMD-unit-in-real-world-units-685870002
+
 When you convert a DAZ/Poser BVH animation to VMD, you can input 1/7 as the Scale value and 1/7 is an adequate approximation. Blender automaticallly converts an inputted fraction to a decimal number.
 
 4. A BVH animation may have a different frame rate than the normal frame rete of a VMD animation, which is 30 FPS (30 frames per second). Before you import a BVH animation into Blender, set the frame rate of your scene to 30 FPS (under the Render tab of Blender's Properties Window.)
 When you import a BVH animation into Blender, an "Import BVH" options panel appears at the lower left. In Blender's Import BVH options panel, enable the ScaleFPS option.
 
 5. You need the names of bones in your BVH armature animation to be the same as the names of the bones in the character who you are trying to animate. So if you want to animate MMD characters, you will need to rename the bones from your BVH animation to MMD Japanese bone names.
-Here is a link to my bones renaming Blender Python script:
+Here is a download link to my bones renaming Blender Python script:
+
 https://github.com/Hogarth-MMD/mmd_tools_translation/archive/master.zip
 
 In this .zip file, you will find a script called
@@ -46,7 +49,7 @@ Converting BVH to VMD summary of steps:
 
 1. Download Blender. 
 2. Download Blender mmd_tools add-on (powroupi fork). 
-3. Install Blender mmd_tools add-on (by copying the mmd_tools folder into Blender's scripts/add-ons folder, then enable it in Blender's User Preferences.
+3. Install Blender mmd_tools add-on (by copying the mmd_tools folder into Blender's scripts/add-ons folder, then enable it in Blender's User Preferences).
 4. Import a BVH file into Blender. Select File, Import, Motion Capture(.bvh).
 5. Choose the correct BVH import options (see issues 2,3,4 above). 
 6. In addition to these BVH import options: 
@@ -60,8 +63,8 @@ Converting BVH to VMD summary of steps:
 7. After importing the BVH animation, press '.' on the numpad of your computer keyboard to zoom the view onto the BVH armature.
 8. Do a mass renaming of bone names to MMD Japanese bone names (see issue 5).
 9. Create an A-Pose on your animation, if necessary(see issue 6 above). Export the VMD file from Blender with the mmd_tools add-on. Click File, Export, MikuMikuDance motion(.vmd). When you export the animation to a VMD file, a  panel of VMD export options appears on the bottom left side of Blender. Enable this VMD export option: "Treat Current Pose as Rest Pose" (as explained in issue 6 above). Choose 1.0 as the Scale value.  Navigate to where you want to save the exported .vmd file and click the "Export VMD file(.vmd)" button to save the .vmd file.
-10. Disable the IK for all 4 leg and foot IK bones (see issue 7 above).
-11. Import the VMD file to a character in MikuMikuDance or MikuMikuMoving. You can mport the.vmd motion which you previously exported from Blender onto your model in MikuMikuDance and then play the animation. To import the vmd animation, either drag and drop it into MikuMikuDance or click File, Load Motion Data.
+10. In MikuMikuDance, disable the IK for all 4 leg and foot IK bones (see issue 7 above).
+11. Import the VMD file to a character in MikuMikuDance. You can mport the.vmd motion which you previously exported from Blender onto your model in MikuMikuDance and then play the animation. To import the vmd animation, either drag and drop it into MikuMikuDance or click File, Load Motion Data.
 12. If you see the character floating and moving above the ground or beneath the ground, adjust the height of the animation (see issue 8 above).
 
 
@@ -69,6 +72,7 @@ Converting BVH to VMD summary of steps:
 You can download free BVH files here:
 
 The CMU (Carnegie Mellon University) database of 2548 free BVH files:
+https://sites.google.com/a/cgspeed.com/cgspeed/motion-capture
 https://sites.google.com/a/cgspeed.com/cgspeed/motion-capture/daz-friendly-release
 
 Truebones 500 free sample BVH files
