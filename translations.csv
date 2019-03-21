@@ -1,862 +1,1350 @@
-"カジュアルスラックス", "CasualSlacks", "kajuaru surakkusu",
-"シャトルーズグリーン", "Chartreuse Green", "shatoruuzuguriin",
-"エメラルドグリーン", "Emerald Green", "emerarudoguriin",
-"オリエンタルブルー", "Oriental Blue", "orientaruburuu",
-"キャロットオレンジ", "Carrot Orange", "kyarottoorenji",
-"ゴールデンイエロー", "Golden Yellow", "gooruden ieroo",
-"チャイニーズレッド", "Chinese Red", "chainiizureddo",
-"ネープルスイエロー", "Naples Yellow", "neepurusuieroo",
-"ビリヤードグリーン", "Billiard Green", "biriyaadoguriin",
-"ピーコックグリーン", "Peacock Green", "piikokkuguriin",
-"フォレストグリーン", "Forest Green", "foresutoguriin",
-"マラカイトグリーン", "Malachite Green", "marakaitoguriin",
-"マンダリンオレンジ", "Mandarin Orange", "mandarin orenji",
-"ミッドナイトブルー", "Midnight Blue", "middonaitoburuu",
-"ガーターブーツ", "Garter_boots", "ka tafu tsu",
-"アイビーグリーン", "Ivy Green", "aibiiguriin",
-"アップルグリーン", "Apple Green", "appuruguriin",
-"イエローオーカー", "Yellow Ocher", "ierooookaa",
-"オリーブグリーン", "Olive Green", "oriibuguriin",
-"カナリーイエロー", "Canary Yellow", "kanariiieroo",
-"カフスチョーカー", "CuffChoker", "kafusuchoka",
-"クリームイエロー", "Cream Yellow", "kuriimuieroo",
-"コチニールレッド", "Cochineal Red", "kochiniirureddo",
-"コバルトグリーン", "Cobalt Green", "kobarutoguriin",
-"サングラスレンズ", "Sunglasses_lens", "sangurasu renzu",
-"セルリアンブルー", "Cerulean Blue", "serurianburuu",
-"ターコイズブルー", "Turquoise Blue", "taakoizuburuu",
-"チャコールグレー", "Charcoal Grey", "chakooruguree",
-"バタフライショツ", "Butterfly_shirt", "batafuraishotsu",
-"バーントアンバー", "Burnt Umber", "baantoanbaa",
-"バーントシェンナ", "Burnt Sienna", "baantoshen na",
-"ピーコックブルー", "Peacock Blue", "piikokkuburuu",
-"プルシアンブルー", "Prussian Blue", "purushianburuu",
-"ちょうネクタイ", "BowTie", "chounekutai",
-"アイアンブルー", "Iron Blue", "aianburuu",
-"アッシュグレー", "Ash Grey", "asshuguree",
-"ウルトラマリン", "Ultramarine Blue", "urutoramarin",
-"エクルベージュ", "Ecru Beige", "ekurubeeju",
-"オリーブドラブ", "Olive Drab", "oriibudorabu",
-"オールドローズ", "Old Rose", "oorudoroozu",
-"クロムイエロー", "Chrome Yellow", "kuromuieroo",
-"グラスグリーン", "Grass Green", "gurasuguriin",
-"ココアブラウン", "Cocoa Brown", "kokoaburaun",
-"コバルトブルー", "Cobalt Blue", "kobarutoburuu",
-"コーラルレッド", "Coral Red", "koorarureddo",
-"サックスブルー", "Saxe Blue", "sakkusuburuu",
-"サングラスリム", "Sunglasses_rim", "sangurasu rimu",
-"サーモンピンク", "Salmon Pink", "saamonpinku",
-"シグナルレッド", "Signal Red", "shigunarureddo",
-"シルバーグレー", "Silver Grey", "shirubaaguree",
-"ジョンブリアン", "Jaune Brillant", "jonburian",
-"スチールグレー", "Steel Grey", "suchiiruguree",
-"スノーホワイト", "Snow White", "sunoohowaito",
-"スレートグレー", "Slate Grey", "sureetoguree",
-"セーラーミズギ", "SailorSwimsuit", "sēramizugi",
-"チェリーピンク", "Cherry Pink", "cheriipinku",
-"ティアドロップ", "Teardrop", "tiadoppu",
-"ネイビーブルー", "Navy Blue", "neibiiburuu",
-"バーガンディー", "Burgundy", "baagandii",
-"ヘリオトロープ", "Heliotrope", "heriotoroopu",
-"ホリゾンブルー", "Horizon Blue", "horizonburuu",
-"ボトルグリーン", "Bottle Green", "botoruguriin",
-"マリーゴールド", "Marigold", "mariigoorudo",
-"ミントグリーン", "Mint Green", "mintoguriin",
-"ライムグリーン", "Lime_green", "raimuguriin",
-"ランプブラック", "Lamp Black", "ranpuburakku",
-"リーフグリーン", "Leaf Green", "riifuguriin",
-"レモンイエロー", "Lemon Yellow", "remon ieroo",
-"いりょうひん", "Clothing", "iryouhin",
-"アプリコット", "Apricot", "apurikotto",
-"アールビット", "Arlvit", "aru bitto",
-"ウィスタリア", "Wistaria", "uisutaria",
-"ウインク２右", "Wink 2 Right",
-"オレンジいろ", "Orange", "orenjiiro",
-"カフスボタン", "CufflinkButton", "kafusubotan",
-"カーディガン", "Cardigan", "ka-digan",
-"シェルピンク", "Shell Pink", "sherupinku",
-"シーグリーン", "Sea Green", "shiiguriin",
-"スカイグレー", "Sky Grey", "sukaiguree",
-"スカイブルー", "Sky Blue", "sukaiburuu",
-"スカーレット", "Scarlet", "sukaaretto",
-"ストッキング", "Stockings", "sutokkingu",
-"ストロベリー", "Strawberry", "sutoroberii",
-"チョコレート", "Chocolate", "chokoretto",
-"ティアドップ", "Teardrop", "tiadoppu",
-"トマトレッド", "Tomato Red", "tomatoreddo",
-"ナイルブルー", "Nile Blue", "nairuburuu",
-"ネールピンク", "Nail Pink", "neerupinku",
-"バイオレット", "Violet", "baioretto",
-"バニーイヤー", "BunnyEars", "baniiya",
-"バーミリオン", "Vermilion", "baamirion",
-"パールグレー", "Pearl Grey", "paaruguree",
-"ヘッドセット", "Headset", "headosetto",
-"ベビードール", "BabyDoll", "bebi doru",
-"ベビーピンク", "Baby Pink", "bebiipinku",
-"ベビーブルー", "Baby Blue", "bebiiburuu",
-"ポピーレッド", "Poppy Red", "popiireddo",
-"マリンブルー", "Marine Blue", "marinburuu",
-"ヤマザナドゥ", "Yamazanadu",
-"ルビーレッド", "Ruby Red", "rubiireddo",
-"レインコート", "Raincoat", "reinkooto",
-"ローアンバー", "Raw Umber", "rooanbaa",
-"ローシェンナ", "Raw Sienna", "rooshen na",
-"ローズグレー", "Rose Grey", "roozuguree",
-"ローズピンク", "Rose Pink", "roozupinku",
-"ローズレッド", "Rose Red", "roozureddo",
-"ワインレッド", "Wine Red", "wainreddo",
-"T-シャツ", "T-shirt", "T-shatsu",
-"かっしょく", "Brown", "kasshoku",
-"はんズボン", "ShortPants", "hanzubon",
-"アイボリー", "Ivory", "aiborii",
-"イヤリング", "Earring", "iyaringu",
-"ウインク右", "Wink Right",
-"ウインク２", "Wink 2",
-"オレンジ色", "Orange", "orenjiiro",
-"オーキッド", "Oechid", "ookiddo",
-"カジュアル", "Casual", "kajuaru",
-"カーマイン", "Carmine", "kaamain",
-"キャンセル", "Control", "kyanseru",
-"クリスタル", "Crystals", "kurisutaru",
-"サングラス", "Sunglasses", "sangurasu",
-"ジャケット", "Jacket", "jaketto",
-"スカウター", "Scout", "sukauta",
-"スニーカー", "Sneakers", "suniikaa",
-"スラックス", "Slacks", "surakkusu",
-"テラコッタ", "Terracotta", "terakotta",
-"トランクス", "Boxers", "torankusu",
-"トレーナー", "SweatShirt (Trainer)", "tore-na-",
-"ネックレス", "Necklace", "nekkuresu",
-"ハイヒール", "HighHeelShoes", "haihiiru",
-"ハイライト", "Highlight", "hairaito",
-"バタフライ", "Butterfly", "batafurai",
-"ヒヤシンス", "Hyacinth", "hianshinsu",
-"ビリジアン", "Viridian", "birijian",
-"ブラジャー", "Bra", "burajaa",
-"ベルト通し", "BeltLoops",
-"ボタンの中", "InnerButton",
-"ライラック", "Lilac", "rairakku",
-"ラベンダー", "Lavender", "rabendaa",
-"レオタード", "Leotard", "reotado",
-"レグホーン", "Leghorn", "reguhoon",
-"ワイシャツ", "Shirt", "waishatsu",
-"ワンピース", "Dress", "wanpiisu",
-"ヴィーナス", "Venus", "vinasu",
-"恐ろしい子", "HorrorChild", "osoroshi ko",
-"蝶ネクタイ", "BowTie", "chounekutai",
-"ガーター", "Garter", "gata",
-"ジップ", "Zip", "zippu",
-"Root", "Root",
-"base", "Base",
-"おっぱい", "Breasts", "oppai",
-"かわぐつ", "LeatherShoes", "kawagutsu",
-"くつした", "Socks", "kutsushita",
-"こんいろ", "Navy_blue", "koniro",
-"すぼめる", "Shrink", "subomeru",
-"そでぐち", "Wristband", "sodeguchi",
-"ちゃいろ", "Brown", "chairo",
-"てぶくろ", "Gloves", "tebukuro",
-"とびいろ", "Reddish_brown", "tobiiro",
-"にっこり", "Smile", "nikkori",
-"ねこみみ", "CatEars", "nekomimi",
-"はいいろ", "Grey", "haiiro",
-"はんっ！", "Fool",
-"ひらひら", "Flutter", "hirahira",
-"びっくり", "Surprised", "bikkuri",
-"ほっそり", "SlenderBody", "hossori",
-"まばたき", "Blink", "mabataki",
-"むっちり", "WiderBody", "mutsuchiri",
-"むらさき", "Purple", "murasaki",
-"もみあげ", "Sideburn", "momiage",
-"アンバー", "Amber", "anbaa",
-"アーマー", "Armor", "ama",
-"イエロー", "Yellow", "ieroo",
-"ウィンク", "Wink", "uinku",
-"ウエスト", "Waist", "uesuto",
-"エプロン", "Apron", "epuron",
-"オリーブ", "Olive", "oriibu",
-"オレンジ", "Orange", "orenji",
-"オーバー", "Overcoat", "o-ba-",
-"カラバリ", "ColorVariations", "kara bari",
-"キャップ", "Cap", "kyappu",
-"クロッチ", "Crotch", "kurocchi",
-"グリーン", "Green", "guriin",
-"グルーブ", "Groove", "guruubu",
-"グループ", "Group", "guruuppu",
-"サンダル", "Sandals", "sandaru",
-"シエスタ", "Siesta", "shiesuta",
-"ショーツ", "Shorts", "sho-tsu",
-"ジーンズ", "Jean", "ji-nzu",
-"スカト横", "SkirtSide",
-"スカート", "Skirt", "sukaato",
-"スカーフ", "Scarf", "suka-fu",
-"スペアナ", "Spectrum", "supeana",
-"スポーツ", "Sports", "supōtsu",
-"スライム", "Slime", "suraimu",
-"スリッパ", "Slippers", "surippa",
-"センター", "Center", "centaa",
-"セーター", "Sweater", "se-ta-",
-"チェーン", "Chain", "chēn",
-"チョッキ", "Vest", "chokki",
-"ツインテ", "Twintail", "tsuinte",
-"トランプ", "Cards", "toranpu",
-"ネクタイ", "Necktie", "nekutai",
-"バックル", "Buckle",
-"バニーイ", "Bunny", "banii",
-"パジャマ", "Pajamas", "pajama",
-"パンジー", "Pansy", "panjii",
-"パンスト", "Pantyhose", "pan suto",
-"パープル", "Purple", "paapuru",
-"ブラウス", "Blouse", "burausu",
-"ブラウン", "Brown", "buraun",
-"ブラック", "Black", "burakku",
-"ブリーフ", "Briefs", "buriifu",
-"ブレザー", "Blazer", "bureza-",
-"ブロンズ", "Bronze", "buronzu",
-"ブロンド", "Blond", "burondo",
-"ブローチ", "Brooch",
-"ベージュ", "Beige", "beeju",
-"ホワイト", "White", "howaito",
-"ボルドー", "Bordeaux", "borudoo",
-"マゼンタ", "Magenta", "mazenta",
-"マフラー", "Scarf", "mafuraa",
-"マルーン", "Maroon", "maruun",
-"メジャー", "Tape", "meja",
-"モミアゲ", "Sideburn", "momiage",
-"リベット", "Rivet", "ribetto",
-"三つ編み", "Braid", "mitsuami",
-"先端丸め", "RoundedTips",
-"全ての親", "ParentNode", "subete no oya",
-"初音ミク", "Hatsune Miku",
-"力アップ", "PowerUp", "chikara appu",
-"半ズボン", "ShortPants", "hanzubon",
-"反射下げ", "ReflectionLower",
-"四季映姫", "Shiki Eiki",
-"垂れ防止", "PreventSagging",
-"怒り漫符", "Anger",
-"操作中心", "ControlNode", "sousa chushin",
-"服色調整", "CostumeColor", "fuku shoku chōsei",
-"縦れ防止", "PreventSagging", "taterebotome",
-"胸押さえ", "Bust_guard",
-"透ジャ", "Translucent", "torushi?",
-"鎖移動用", "ChainMovement",
-"髪色調整", "HairColor", "kami shoku chōsei",
-"サビオ", "Bandage", "sahi o",
-"ジャケ", "Jacket",
-"ダミー", "Dummy", "damii",
-"ヌルテカ", "Oiled", "nuruteka",
-"バニー", "Bunny", "bani",
-"あぅう", "Oh no!",
-"あほ毛", "Antenna", "ahoge",
-"いふく", "Clothes", "ifuku",
-"うるる", "Cry", "uru uru",
-"うわぎ", "Coat", "uwagi",
-"おさげ", "Pigtail", "osage",
-"がおー", "Roar",
-"がーん", "Gloom", "gaan",
-"きいろ", "Yellow", "kiiro",
-"きもの", "Kimono", "kimono",
-"くノ一", "FemaleNinja", "Kunoichi",
-"したぎ", "Underwear", "shitagi",
-"じと目", "Stare", "jitome",
-"せびろ", "Suit", "sebiro",
-"だくみ", "Mechanism", "da kumi",
-"てへっ", "TehHeh", "tehheh",
-"とほほ", "Tears",
-"なごみ", "Calm", "nagomi",
-"なぬっ", "Coloring",
-"なぬ！", "Confuse",
-"なめる", "Lick",
-"にこり", "Cheerful", "nikori",
-"にしわ", "Wrinkle", "ni shiwa",
-"にやり", "Grin", "ni yari",
-"はぁと", "Heart", "haato",
-"はちゅ", "Hachu", "hachu",
-"ぱんつ", "Pants", "pantsu",
-"ひいろ", "Scarlet", "hiiro",
-"ふにゃ", "Sleepy", "fu nya",
-"ふーん", "Fuun", "fuun",
-"ぺろっ", "Lick",
-"ぼうし", "Hat", "boushi",
-"まつげ", "Eyelash", "matsuge",
-"みずぎ", "Swimsuit", "mizugi",
-"みどり", "Green", "midori",
-"めがね", "Glasses", "megane",
-"ゆかた", "SummerKimono", "yukata",
-"ゆびわ", "Ring", "yubiwa",
-"れ防止", "PreventSagging",
-"アクセ", "Access", "aku se",
-"アヒル", "Duck", "ahiru",
-"アホ毛", "Antenna", "ahoge",
-"イヒヒ", "IhHiHi", "ihihi",
-"イヤー", "Ears", "iya",
-"イレグ", "Leg", "iregu",
-"エッジ", "Edge", "ejji",
-"カフス", "Cuff", "kafusu",
-"カーキ", "Khaki", "kaaki",
-"ガール", "Girl", "garu",
-"ガーン", "Gloom", "gaan",
-"グレー", "Grey", "guree",
-"コルク", "Cork", "koruku",
-"コート", "Coat", "kooto",
-"コード", "Cord", "koudo",
-"サンバ", "Samba", "sanba",
-"シアン", "Cyan", "shian",
-"シャツ", "Shirt", "shatsu",
-"シーム", "Seam", "shimu",
-"スカト", "Skirt", "sukato",
-"スーツ", "Suit", "su-tsu",
-"ズボン", "Trousers", "zubon",
-"セット", "Set", "setto",
-"セピア", "Sepia", "sepia",
-"センタ", "Center", "senta",
-"タイツ", "Tights", "taitsu",
-"ドレス", "Dress", "doresu",
-"バック", "Back", "bakku",
-"バッジ", "Badge",
-"バンド", "Band", "bando",
-"パンツ", "Pants", "pantsu",
-"パーツ", "Part", "paatsu",
-"ヒップ", "Hip", "hippu",
-"ヒール", "HighHeelShoes", "hiru",
-"ビキニ", "Bikini", "bikini",
-"ピアス", "Earring", "piasu",
-"ピンク", "Pink", "pinku",
-"ピーチ", "Peach", "piichi",
-"フリル", "Frill", "furiru",
-"ブリム", "Brim", "burimu",
-"ブリュ", "Blue", "buryu",
-"ブルー", "Blue", "buruu",
-"ブロチ", "Brooch",
-"ブーツ", "Boots", "buutsu",
-"ベルト", "Belt", "beruto",
-"ボタン", "Button", "botan",
-"ボディ", "Body", "bodi",
-"ボトム", "Bottom", "botomu",
-"ボーン", "Bone", "bon",
-"マジデ", "Really", "majide",
-"マント", "Cloak", "manto",
-"メイコ", "Meiko",
-"メイド", "Maid", "meido",
-"メガネ", "Eyeglasses", "megane",
-"モーフ", "Morph",
-"モーブ", "Mauve", "moobu",
-"リボン", "Ribbon", "ribon",
-"リング", "Ring", "ringu",
-"レッド", "Red", "reddo",
-"ローズ", "Rose", "roozu",
-"上半身", "UpperBody", "jouhanshin",
-"下あご", "Chin", "shita ago",
-"下半身", "LowerBody", "kahanshin",
-"不機嫌", "Bad mood",
-"二重の", "Double", "futaeno",
-"人差指", "IndexFinger", "hitosashiyubi",
-"先細り", "Taper",
-"十六夜", "Izayoi",
-"向日葵", "Sunflower", "mukoaoi",
-"女戦士", "FemaleWarrior", "jo senshi",
-"寄せる", "Together", "yoseru",
-"小悪魔", "Koakuma",
-"小野塚", "Onozuka",
-"幽々子", "Yuyuko",
-"悲しい", "Sad",
-"明度変", "ChangeColor",
-"様私服", "CasualClothes",
-"止め具", "Fasteners",
-"淡紅色", "Pink", "tankōshoku",
-"燕尾服", "SwallowTailCoat",
-"真面目", "Serious",
-"神奈子", "Kanako",
-"移動用", "Move", "ido?",
-"紐ぱん", "String",
-"細める", "Tighten", "hosomeru",
-"絆創膏", "Bandage", "",
-"緑寄り", "Green", "midori yori",
-"耳移動", "EarMovement", "mimi ido",
-"胸補助", "Bust_support",
-"色変え", "ChangeColor",
-"衣料品", "Clothing", "iryouhin",
-"西行寺", "Saigyouji",
-"見開く", "Spread", "mihiraku",
-"赤寄り", "Red", "aka yori",
-"鎖移動", "ChainMovement", "kusari ido",
-"青ざめ", "Pale", "aozame",
-"青寄り", "Blue", "ao yori",
-"革ぱん", "Leather",
-"髪留め", "RubberBand",
-"キリッ", "Slant", "kiritsu",
-"ケット", "Jacket", "ketto",
-"レオタ", "Leotard", "reota",
-"レグ", "Leg", "regu",
-"ω□", "Omegabox",
-"あお", "Blue", "ao",
-"あか", "Red", "aka",
-"あご", "Jaw", "ago",
-"うで", "Arm", "ude",
-"うへ", "Uueh", "ue",
-"えり", "Collar", "eri",
-"えー", "e-", "e",
-"くっ", "Ugh",
-"くつ", "Shoes", "kutsu",
-"くろ", "Black", "kuro",
-"げ右", "Right", "ge migi",
-"げ左", "Left", "ge hidari",
-"さき", "Tips", "saki",
-"しろ", "White", "shiro",
-"じと", "Tooth", "ji to",
-"すじ", "Sushi", "suji",
-"すそ", "LowerClothes", "suso",
-"そで", "Sleeve", "sode",
-"たか", "Falcon", "taka",
-"たれ", "Droopy", "tare",
-"つま", "Toe", "tsuma",
-"つり", "Slant", "tsuri",
-"てへ", "TehHeh", "tehheh",
-"とげ", "Thorn", "toge",
-"なし", "None", "nashi",
-"なぬ", "None", "nanu",
-"なめ", "Lick", "name",
-"にこ", "Smile", "niko",
-"ぬる", "Oiled", "nuru",
-"はぁ", "Haa", "haa",
-"はぅ", "Close><", "haau",
-"ひざ", "Knee", "hiza",
-"ひじ", "Elbow", "hiji",
-"ぷぅ", "Inflate", "puu",
-"ぷく", "Grow", "puku",
-"べー", "TongueOut",
-"ぺろ", "Lick", "pero",
-"ぽっ", "Cruciform",
-"イー", "Eee", "ii",
-"オフ", "Off", "ofu",
-"ガタ", "Looseness", "gata",
-"タン", "Tan", "tan",
-"ネ毛", "Hair",
-"バフ", "Buff", "bafu",
-"ヒル", "HighHeelShoes", "hiru",
-"ブチ", "Spotted", "buchi",
-"ブツ", "Boots",
-"ブラ", "Bra", "bura",
-"ベー", "Behh", "behh",
-"ミク", "Miku", "miku",
-"レオ", "Leotard", "reo",
-"ロー", "Lower", "ro",
-"上げ", "Raise", "age",
-"上半", "Upper",
-"上着", "Coat", "uwagi",
-"下げ", "Lower", "sage",
-"下半", "Lower",
-"下着", "Underwear", "shitagi",
-"下顎", "Chin", "shita ago",
-"不満", "Dissatisfied", "fuman",
-"両目", "Eyes", "ryoume",
-"中指", "MiddleFinger", "nakayubi",
-"丹色", "Red", "ni-iro",
-"二重", "Double", "futae",
-"人指", "IndexFinger", "hitoyubi",
-"付け", "Attachment",
-"体上", "Bodyu",
-"体下", "Bodyl",
-"先端", "Tips", "sakihaji",
-"八坂", "Yasaka",
-"八意", "Yagokoro",
-"八雲", "Yakumo",
-"六角", "Hexagon", "rokukaku",
-"前髪", "Bangs",
-"勇儀", "Yuugi",
-"収納", "Hide", "shūno",
-"右ハ", "RightHand",
-"向日", "Sunrise", "muko",
-"呆れ", "Amazement",
-"和み", "Calm", "nagomi",
-"咲夜", "Sakuya",
-"噛む", "Bite", "kamu",
-"器具", "Apparatus", "kigu",
-"回転", "Rotation", "kaiten",
-"困り", "Troubled", "komari",
-"困る", "Sadness", "komaru",
-"土台", "Base", "dodai",
-"太い", "Wider",
-"女僧", "FemalePriest", "jo sō",
-"女賢", "WiseWoman", "jo ken",
-"学迷", "Learning", "gaku",
-"小指", "LittleFinger", "koyubi",
-"小町", "Komachi",
-"左ハ", "LeftHand",
-"帽子", "Hat", "boushi",
-"幽香", "Yuuka",
-"広げ", "Widen", "hiroge",
-"後ろ", "Behind", "ushiro",
-"怒り", "Anger", "ikari",
-"怒る", "GetAngry", "okoru",
-"感情", "Emotion", "kanjou",
-"憂い", "Grieving", "urei",
-"戦士", "Warrior", "senshi",
-"手袋", "Gloves", "tebukuro",
-"手首", "Wrist", "tekubi",
-"指輪", "Ring", "yubiwa",
-"揺れ", "Shake",
-"新規", "New", "shinnki",
-"明度", "Color",
-"星熊", "Hoshiguma",
-"映姫", "Princess", "utsu hime",
-"暗い", "Deep", "kurai",
-"暗く", "Deep", "kuraku",
-"材質", "Material",
-"染め", "Blush", "",
-"桃色", "Pink", "momoiro",
-"模様", "ChangeColoredShapes", "katagiyo",
-"横髪", "SideHair",
-"橙色", "Orange", "daidaiiro",
-"水晶", "Crystals", "suisho",
-"水着", "Swimsuit", "mizugi",
-"永琳", "Eirin",
-"泣き", "Cry", "naki",
-"浴衣", "SummerKimono", "yukata",
-"涙袋", "Puffy Eyes", "ruitai",
-"測定", "Measurement", "Sokutei",
-"潰れ", "Collapse", "tsubure",
-"灰色", "Grey", "haiiro",
-"無し", "None", "nashi",
-"照れ", "Blush", "tere",
-"物理", "Physics",
-"狭く", "Narrowly", "semaku",
-"白い", "White", "shiroi",
-"白蓮", "Byakuren",
-"眉ヘ", "Eyebrow", "mayu e",
-"眉尻", "Eyebrow", "mayujiri",
-"真面", "Serious", "majime",
-"眼鏡", "Glasses", "megane",
-"着物", "Kimono", "kimono",
-"着用", "Wear", "chakuyo",
-"瞳孔", "Pupil", "dookoo",
-"瞳小", "Pupil",
-"移動", "Move", "ido",
-"笑い", "Smile", "warai",
-"笑う", "Laugh",
-"細い", "Thinner",
-"細眉", "Thin Eyebrows",
-"紳士", "Gentleman", "shinshi",
-"紺色", "Navy_blue", "koniro",
-"経巻", "Scroll", "kyōkan",
-"緋色", "Scarlet", "hiiro",
-"線銃", "Gun", "sen jū",
-"編改", "Braids", "hen aratame",
-"縮小", "Shrink", "syukusyou",
-"置置", "Locations", "",
-"美鈴", "Meiling",
-"背広", "Suit", "sebiro",
-"腰紐", "Cordon",
-"舞台", "Stage", "butai",
-"茶色", "Brown", "chairo",
-"葉収", "Leaves", "ha osamu",
-"薄い", "Thinner",
-"薬指", "RingFinger", "kusuriyubi",
-"衣服", "Clothes", "ifuku",
-"衣装", "Costume", "ishō",
-"表情", "Expressions",
-"袖口", "Wristband", "sodeguchi",
-"補助", "Aux", "hojo",
-"褐色", "Brown", "kasshoku",
-"親指", "Thumb", "oyayubi",
-"角度", "Angle", "kakudo",
-"角拡", "Expand", "sumi hiromu",
-"触覚", "Antenna",
-"調整", "Adjustment", "tyousetsu",
-"貼る", "Pastie",
-"賢者", "WiseMan", "kenja",
-"赤い", "Red", "akai",
-"足首", "Ankle", "ashikubi",
-"軍帽", "MilitaryCap", "gunbo",
-"軍装", "MilitaryUniform", "gunso",
-"軽装", "LightClothing", "keiso",
-"軽量", "Lightweight", "keiryō",
-"輪郭", "Contour", "rinkaku",
-"追加", "Append", "tsuika",
-"透過", "Transparent", "toruka",
-"連結", "Connection",
-"部分", "Parts", "bun",
-"部部", "Parts", "bu",
-"金属", "Metal", "kinzoku",
-"鎖骨", "Clavicle", "sakotsu",
-"開き", "Open", "hiraki",
-"闇服", "Dark", "yami fuku",
-"闇色", "Dark", "yami shoku",
-"隠る", "Hide", "komoru",
-"青色", "Blue green", "ao-iro",
-"革靴", "LeatherShoes", "kawagutsu",
-"靴下", "Socks", "kutsushita",
-"風見", "Kazami",
-"飾り", "Accessory", "kazari",
-"鳶色", "Reddish_brown", "tobiiro",
-"黄色", "Yellow", "kiiro",
-"黒い", "Black", "kuroi",
-"鼠色", "Grey", "muzumi-iro",
-"ＩＫ", "IK",
-"ヌル", "Oiled", "nuru",
-"ω", "Omega",
-"※", "※",
-"∧", "Regret",
-"□", "Box",
-"▲", "Triangle",
-"○", "o",
-"◎", "@",
-"●", "*",
-"あ", "a", "a",
-"い", "i", "i",
-"う", "u", "u",
-"え", "e", "e",
-"お", "o", "o",
-"し", "", "shi",
-"の", "no", "no",
-"ん", "n", "n",
-"び", "FacialExpression", "bi",
-"べ", "Beh", "beh",
-"み", "Body", "mi",
-"を", "wo", "wo",
-"ハ", "Higher", "ha",
-"ロ", "Lower", "ro",
-"ワ", "Wa", "wa",
-"・", "*",
-"一", "One", "ichi",
-"上", "GoUp", "ue",
-"下", "GoDown", "shita",
-"並", "Casual", "nami",
-"中", "Middle", "naka",
-"丸", "Circle", "maru",
-"乳", "Breasts", "titi",
-"二", "Two", "ni",
-"他", "Other", "ta",
-"付", "Attachment", "tsuke",
-"伸", "Extend", "shin",
-"位", "Location", "kurai",
-"体", "Body", "karada",
-"元", "Origin", "moto",
-"先", "Tip", "saki",
-"光", "Light", "hikari",
-"兎", "Bunny", "usagi",
-"六", "Six", "roku",
-"内", "Inside", "uchi",
-"円", "Circle", "en",
-"出", "Out", "izuru",
-"分", "Part", "bun",
-"前", "Front", "mae",
-"剣", "Sword", "ken",
-"半", "Half", "han",
-"厚", "Thick", "atsu",
-"口", "Mouth", "kuchi",
-"右", "Right", "migi",
-"唇", "Lips", "kuchibiru",
-"垂", "Vertical", "shide",
-"型", "Type", "kata",
-"基", "Category", "ki",
-"変", "Change",
-"外", "Outside", "soto",
-"大", "Big", "oo",
-"太", "Wide", "dai",
-"央", "Center", "hisashi",
-"奥", "Back", "oku",
-"字", "Character", "ji",
-"宝", "Gem",
-"小", "Small", "ko",
-"尖", "Tip", "toga",
-"尻", "Butt", "shiri",
-"尾", "Tail", "bi",
-"左", "Left", "hidari",
-"差", "Difference", "sa",
-"巻", "Book", "maki",
-"帯", "Band", "obi",
-"幅", "Width", "haba",
-"広", "Wide", "hiro",
-"強", "Force", "tsuyoshi",
-"彩", "ColorScheme", "irodori",
-"後", "Back", "ushiro",
-"怒", "Anger", "ikari/do",
-"悪", "Evil", "waru",
-"愛", "Love", "ai",
-"戻", "Return", "modo",
-"手", "Hand", "te",
-"拡", "Expand", "hiromu",
-"括", "TieFasten", "kuku",
-"指", "Finger", "yubi",
-"捩", "Twist", "nejiri",
-"揺", "Shake", "yura",
-"明", "Color",
-"星", "Star", "hoshi",
-"服", "Clothes", "fuku",
-"本", "Book", "hon",
-"染", "Blush", "some",
-"根", "Base", "ne",
-"桃", "Pink", "momo",
-"桜", "Cherry", "sakura",
-"棘", "Thorn",
-"横", "Side", "yoko",
-"歯", "Teeth", "ha",
-"毛", "Strand", "ke",
-"水", "Water", "mizu",
-"汗", "Sweat", "ase",
-"涙", "Tears", "namida",
-"点", "Tips", "ten",
-"無", "Nothing", "mu",
-"燕", "Swallow", "tsubame",
-"物", "Object", "mono",
-"狭", "Narrow", "sema",
-"球", "Ball", "tama",
-"生", "Bare", "nama",
-"白", "White", "shiro",
-"目", "Eye", "me",
-"眉", "Eyebrow", "mayu",
-"眼", "Eye", "gan",
-"着", "Wear", "chaku",
-"瞳", "Pupil", "hitomi",
-"石", "Stone", "ishi",
-"端", "End", "haji",
-"笑", "LOL", "emi",
-"符", "Marks", "fu",
-"筋", "Muscle", "suzi",
-"紅", "Hong",
-"紐", "String", "himo",
-"紫", "Purple", "murasaki",
-"紫", "Yukari",
-"細", "Thin", "hoso",
-"結", "Connection", "yui",
-"網", "Net", "ami",
-"緑", "Green", "midori",
-"縦", "Vertical", "tate",
-"置", "Location", "",
-"羽", "Wing", "hane",
-"耳", "Ears", "mimi",
-"聖", "Hijiri",
-"肌", "Skin", "hada",
-"肘", "Elbow", "hiji",
-"肩", "Shoulder", "kata",
-"背", "Back", "se",
-"胸", "Breast", "mune",
-"脛", "Shin", "hagi",
-"腋", "Armpit", "waki",
-"腕", "Arms", "ude",
-"腰", "Waist", "koshi",
-"腹", "Belly", "hara",
-"腿", "Thigh", "momo",
-"舌", "Tongue", "shita ago",
-"舐", "Lick", "nebu",
-"舞", "Dance", "mai",
-"色", "Color", "iro",
-"花", "Flower", "hana",
-"茶", "Brown", "cha",
-"葉", "Leaf", "ha",
-"葵", "Hollyhock", "aoi",
-"蓮", "Lotus", "hachisu",
-"薄", "Thin", "susuki",
-"藍", "Ran",
-"虹", "Rainbow", "niji",
-"蛇", "Snake", "hebi",
-"蝶", "Butterfly", "cho",
-"袖", "Sleeve", "sode",
-"補", "Increase", "ho",
-"裸", "Bare", "hadaka",
-"裾", "LowerClothes", "suso",
-"襟", "Collar", "eri",
-"親", "Parent", "oya",
-"角", "Corner", "kaku",
-"貧", "Small", "hin",
-"貼", "Pastie", "ha",
-"赤", "Red", "aka",
-"足", "Leg", "ashi",
-"踊", "Dance", "odori",
-"身", "Body",
-"軍", "Army", "gun",
-"軸", "Axis", "jiku",
-"輪", "Circles", "wa",
-"透", "Transparent", "toru",
-"過", "Over", "ka",
-"部", "Part", "bu",
-"錐", "Cone", "kiri",
-"鎖", "Chain", "kusari",
-"鎧", "ChainStraps", "yoroi",
-"開", "Open", "hiraki",
-"間", "Interval", "kan",
-"隠", "Hide", "komo",
-"青", "Blue", "ao",
-"非", "Not", "hi",
-"革", "Leather", "kawa",
-"靴", "Shoes", "kutsu",
-"頂", "Top", "itadaki",
-"頬", "Cheek", "ho",
-"頭", "Head", "atama",
-"顎", "Jaw", "ago",
-"顔", "Face", "kao",
-"類", "Type", "rui",
-"首", "Neck", "kubi",
-"骨", "Bone", "hone",
-"髪", "Hair", "kami",
-"魔", "Demon", "ma",
-"黒", "Black", "kuro",
-"！", "!",
-"＋", "+",
-"－", "-",
-"／", "/",
-"０", "0",
-"１", "1",
-"２", "2",
-"３", "3",
-"４", "4",
-"５", "5",
-"６", "6",
-"７", "7",
-"８", "8",
-"９", "9",
-"？", "?",
-"Ａ", "A",
-"Ｂ", "B",
-"Ｃ", "C",
-"Ｄ", "D",
-"Ｅ", "E",
-"Ｆ", "F",
-"Ｇ", "G",
-"Ｈ", "H",
-"Ｉ", "I",
-"Ｊ", "J",
-"Ｋ", "K",
-"Ｌ", "L",
-"Ｍ", "M",
-"Ｎ", "N",
-"Ｏ", "O",
-"Ｐ", "P",
-"Ｑ", "Q",
-"Ｒ", "R",
-"Ｓ", "S",
-"Ｔ", "T",
-"Ｕ", "U",
-"Ｖ", "V",
-"Ｗ", "W",
-"Ｘ", "X",
-"Ｙ", "Y",
-"Ｚ", "Z",
-"＿", "_",
-"ａ", "a",
-"ｂ", "b",
-"ｃ", "c",
-"ｄ", "d",
-"ｅ", "e",
-"ｆ", "f",
-"ｇ", "g",
-"ｈ", "h",
-"ｉ", "i",
-"ｊ", "j",
-"ｋ", "k",
-"ｌ", "l",
-"ｍ", "m",
-"ｎ", "n",
-"ｏ", "o",
-"ｐ", "p",
-"ｑ", "q",
-"ｒ", "r",
-"ｓ", "s",
-"ｔ", "t",
-"ｕ", "u",
-"ｖ", "v",
-"ｗ", "w",
-"ｘ", "x",
-"ｙ", "y",
-"ｚ", "z",
+"//matugesita","LowerEyelashes"
+"//body_ashi","Leg"
+"//body_fuku","Clothes"
+"//body_hara","Belly"
+"//body_mune","Chest"
+"//body_tume","FingerNails"
+"//manto_ura","Cape_Back"
+"//body_asi","Feet"
+"//mitsuami","Braid"
+"//yosizumi","EyebrowsPaint"
+"カジュアルスラックス","CasualSlacks","kajuaru surakkusu",""
+"シャトルーズグリーン","Chartreuse Green","shatoruuzuguriin",""
+"エメラルドグリーン","Emerald Green","emerarudoguriin",""
+"オリエンタルブルー","Oriental Blue","orientaruburuu",""
+"キャロットオレンジ","Carrot Orange","kyarottoorenji",""
+"ゴールデンイエロー","Golden Yellow","gooruden ieroo",""
+"チャイニーズレッド","Chinese Red","chainiizureddo",""
+"ネープルスイエロー","Naples Yellow","neepurusuieroo",""
+"ビリヤードグリーン","Billiard Green","biriyaadoguriin",""
+"ピーコックグリーン","Peacock Green","piikokkuguriin",""
+"フォレストグリーン","Forest Green","foresutoguriin",""
+"マラカイトグリーン","Malachite Green","marakaitoguriin",""
+"マンダリンオレンジ","Mandarin Orange","mandarin orenji",""
+"ミッドナイトブルー","Midnight Blue","middonaitoburuu",""
+"//haguki","Gums"
+"//katana","KatanaSword"
+"//kounai","InnerMouth"
+"//matuge","Eyelashes"
+"//mizugi","Swimsuit"
+"//toumei","Neck"
+"アイビーグリーン","Ivy Green","aibiiguriin",""
+"アタッチメント用","Attachment"
+"アップルグリーン","Apple Green","appuruguriin",""
+"イエローオーカー","Yellow Ocher","ierooookaa",""
+"オリーブグリーン","Olive Green","oriibuguriin",""
+"カナリーイエロー","Canary Yellow","kanariiieroo",""
+"カフスチョーカー","CuffChoker","kafusuchoka",""
+"クリームイエロー","Cream Yellow","kuriimuieroo",""
+"コチニールレッド","Cochineal Red","kochiniirureddo",""
+"コバルトグリーン","Cobalt Green","kobarutoguriin",""
+"サングラスレンズ","Sunglasses_lens","sangurasu renzu",""
+"セルリアンブルー","Cerulean Blue","serurianburuu",""
+"ターコイズブルー","Turquoise Blue","taakoizuburuu",""
+"チャコールグレー","Charcoal Grey","chakooruguree",""
+"バタフライショツ","Butterfly_shirt","batafuraishotsu",""
+"バーントアンバー","Burnt Umber","baantoanbaa",""
+"バーントシェンナ","Burnt Sienna","baantoshen na",""
+"ピーコックブルー","Peacock Blue","piikokkuburuu",""
+"プルシアンブルー","Prussian Blue","purushianburuu",""
+"//manto","Cape"
+"//mizgi","Swimsuit"
+"//ribon","Ribbon"
+"//shose","Shoes"
+"//sippo","Tail"
+"ちょうネクタイ","BowTie","chounekutai",""
+"アイアンブルー","Iron Blue","aianburuu",""
+"アタッチメント","Attachment","atacchimento","Kakomiki new translations"
+"アッシュグレー","Ash Grey","asshuguree",""
+"アルファベット","Alphabet","arufabetto"
+"ウルトラマリン","Ultramarine Blue","urutoramarin",""
+"エクルベージュ","Ecru Beige","ekurubeeju",""
+"オリーブドラブ","Olive Drab","oriibudorabu",""
+"オールドローズ","Old Rose","oorudoroozu",""
+"ガーターブーツ","Garter_boots","ka tafu tsu",""
+"クロムイエロー","Chrome Yellow","kuromuieroo",""
+"グラスグリーン","Grass Green","gurasuguriin",""
+"ココアブラウン","Cocoa Brown","kokoaburaun",""
+"コバルトブルー","Cobalt Blue","kobarutoburuu",""
+"コーラルレッド","Coral Red","koorarureddo",""
+"サックスブルー","Saxe Blue","sakkusuburuu",""
+"サングラスリム","Sunglasses_rim","sangurasu rimu",""
+"サーモンピンク","Salmon Pink","saamonpinku",""
+"シグナルレッド","Signal Red","shigunarureddo",""
+"シルバーグレー","Silver Grey","shirubaaguree",""
+"ジョンブリアン","Jaune Brillant","jonburian",""
+"スチールグレー","Steel Grey","suchiiruguree",""
+"スノーホワイト","Snow White","sunoohowaito",""
+"スレートグレー","Slate Grey","sureetoguree",""
+"セーラーミズギ","SailorSwimsuit","sēramizugi",""
+"チェリーピンク","Cherry Pink","cheriipinku",""
+"ティアドロップ","Teardrop","tiadoppu",""
+"ネイビーブルー","Navy Blue","neibiiburuu",""
+"バーガンディー","Burgundy","baagandii",""
+"ヘリオトロープ","Heliotrope","heriotoroopu",""
+"ホリゾンブルー","Horizon Blue","horizonburuu",""
+"ボトルグリーン","Bottle Green","botoruguriin",""
+"マリーゴールド","Marigold","mariigoorudo",""
+"ミントグリーン","Mint Green","mintoguriin",""
+"ライムグリーン","Lime_green","raimuguriin",""
+"ランプブラック","Lamp Black","ranpuburakku",""
+"リーフグリーン","Leaf Green","riifuguriin",""
+"レモンイエロー","Lemon Yellow","remon ieroo",""
+"//fuku","Clothes"
+"//hada","Skin"
+"//hara","Belly"
+"//kami","Hair"
+"//kutu","Shoes"
+"//mune","Chest"
+"//pend","Pendant"
+"//sita","Tongue"
+"//tori","Bird"
+"//tume","FingerNails"
+"いりょうひん","Clothing","iryouhin",""
+"アプリコット","Apricot","apurikotto",""
+"アールビット","Arlvit","aru bitto",""
+"ウィスタリア","Wistaria","uisutaria",""
+"ウインク２右","Wink 2 Right",""
+"オレンジいろ","Orange","orenjiiro",""
+"カフスボタン","CufflinkButton","kafusubotan",""
+"カーディガン","Cardigan","ka-digan",""
+"コスチューム","Costume","kosuchumu"
+"サヒﾞオ胸小","BreastsSmall"
+"シェルピンク","Shell Pink","sherupinku",""
+"シーグリーン","Sea Green","shiiguriin",""
+"スカイグレー","Sky Grey","sukaiguree",""
+"スカイブルー","Sky Blue","sukaiburuu",""
+"スカーレット","Scarlet","sukaaretto",""
+"ストッキング","Stockings","sutokkingu",""
+"ストロベリー","Strawberry","sutoroberii",""
+"チョコレート","Chocolate","chokoretto",""
+"ティアドップ","Teardrop","tiadoppu",""
+"トマトレッド","Tomato Red","tomatoreddo",""
+"ナイルブルー","Nile Blue","nairuburuu",""
+"ネールピンク","Nail Pink","neerupinku",""
+"ノースリーブ","Sleeveless","nosuribu"
+"ハイライト無","HighlightsNone"
+"バイオレット","Violet","baioretto",""
+"バニーイヤー","BunnyEars","baniiya",""
+"バーミリオン","Vermilion","baamirion",""
+"パールグレー","Pearl Grey","paaruguree",""
+"ヘッドセット","Headset","headosetto",""
+"ベビードール","BabyDoll","bebi doru",""
+"ベビーピンク","Baby Pink","bebiipinku",""
+"ベビーブルー","Baby Blue","bebiiburuu",""
+"ポピーレッド","Poppy Red","popiireddo",""
+"マリンブルー","Marine Blue","marinburuu",""
+"ヤマザナドゥ","Yamazanadu",""
+"ランジェリー","Lingerie","ranjeri"
+"ルビーレッド","Ruby Red","rubiireddo",""
+"レインコート","Raincoat","reinkooto",""
+"ローアンバー","Raw Umber","rooanbaa",""
+"ローシェンナ","Raw Sienna","rooshen na",""
+"ローズグレー","Rose Grey","roozuguree",""
+"ローズピンク","Rose Pink","roozupinku",""
+"ローズレッド","Rose Red","roozureddo",""
+"ワインレッド","Wine Red","wainreddo",""
+"睫毛シンプル","EyelashesSimple"
+"酔っ払いの目","Cross-Eyed"
+"首回りボタン","NeckButton"
+"//aka","Red","romaji"
+"//asi","Feet"
+"//kao","Face"
+"//sox"," Socks"
+"//ude"," Bracelet"
+"T-シャツ","T-shirt","T-shatsu",""
+"かっしょく","Brown","kasshoku",""
+"ずらしブラ","SlidingBra"
+"ねじり閉じ","TwistClosed"
+"はんズボン","ShortPants","hanzubon",""
+"ぽっちゃり","Chubby"
+"アイボリー","Ivory","aiborii",""
+"イヤリング","Earring","iyaringu",""
+"ウインク右","Wink Right",""
+"ウインク２","Wink 2",""
+"エフﾟロン","Apron","epuron",""
+"オレンジ色","Orange","orenjiiro",""
+"オーキッド","Orchid","ookiddo",""
+"カジュアル","Casual","kajuaru",""
+"カーマイン","Carmine","kaamain",""
+"キャンセル","Control","kyanseru",""
+"クリスタル","Crystals","kurisutaru",""
+"サポーター","Supporter","sapota"
+"サングラス","Sunglasses","sangurasu",""
+"シャクレナ","ClenchTeeth"
+"ジャケット","Jacket","jaketto",""
+"スカウター","Scout","sukauta",""
+"ストライプ","Stripes","sutoraipu"
+"スニーカー","Sneakers","suniikaa",""
+"スラックス","Slacks","surakkusu",""
+"ス明度変更","ChangeBrightness"
+"テラコッタ","Terracotta","terakotta",""
+"トランクス","Boxers","torankusu",""
+"トレーナー","SweatShirt (Trainer)","tore-na-",""
+"ネックレス","Necklace","nekkuresu",""
+"ハイヒール","HighHeelShoes","haihiiru",""
+"ハイライト","Highlight","hairaito",""
+"バタフライ","Butterfly","batafurai",""
+"ヒヤシンス","Hyacinth","hianshinsu",""
+"ビリジアン","Viridian","birijian",""
+"ブラジャー","Bra","burajaa",""
+"ヘッドギア","Headgear","heddo gia"
+"ベルト通し","BeltLoops",""
+"ボタンの中","InnerButton",""
+"ライラック","Lilac","rairakku",""
+"ラベンダー","Lavender","rabendaa",""
+"レオタード","Leotard","reotado",""
+"レグホーン","Leghorn","reguhoon",""
+"ローライズ","LowerHeight"
+"ワイシャツ","Shirt","waishatsu",""
+"ワンピース","Dress","wanpiisu",""
+"ヴィーナス","Venus","vinasu",""
+"下唇を噛む","BiteLowerLip"
+"右おっぱい","RightBreast"
+"咲音メイコ","Meiko Sakine"
+"垂れジト目","SnowflakeEyes"
+"寄せてみる","NoseGoRight"
+"左おっぱい","LeftBreast"
+"恐ろしい子","HorrorChild","osoroshi ko",""
+"映り込み消","BodyDisappear"
+"眉間にしわ","WrinklesBetweenEyebrows"
+"結月ゆかり","YuzukiYukari","Yukari Purple correction"
+"蝶ネクタイ","BowTie","chounekutai",""
+"足指きゅっ","ToesBend"
+"足指曲げる","ToesBend"
+"身体（上）","Body（Upper）"
+"身体（下)","Body（Lower)"
+"ＫＡＩＴＯ","Kaito"
+"//ha","Teeth"
+"Root","Root",""
+"ashi","Leg"
+"base","Base",""
+"おっぱい","Breasts","oppai",""
+"かわぐつ","LeatherShoes","kawagutsu",""
+"くつした","Socks","kutsushita",""
+"こんいろ","Navy_blue","koniro",""
+"しかめる","Frown"
+"すぼめる","Shrink","subomeru",""
+"そでぐち","Wristband","sodeguchi",""
+"ちゃいろ","Brown","chairo",""
+"てぶくろ","Gloves","tebukuro",""
+"てへぺろ","AmusedLick"
+"とびいろ","Reddish_brown","tobiiro",""
+"にっこり","Smile","nikkori",""
+"にやり白","GrinHijiri"
+"にやり紫","GrinYukari"
+"ねこみみ","CatEars","nekomimi",""
+"はいいろ","Grey","haiiro",""
+"はちゅ目","○○BlankWhiteEyes"
+"ひかえめ","Smaller"
+"ひらひら","Flutter","hirahira",""
+"びっくり","Surprised","bikkuri",""
+"ふともも","Thigh"
+"ほっそり","SlenderBody","hossori",""
+"まばたき","Blink","mabataki",""
+"むっちり","WiderBody","mutsuchiri",""
+"むらさき","Purple","murasaki",""
+"もみあげ","Sideburn","momiage",""
+"アクセ用","Access"
+"アンバー","Amber","anbaa",""
+"アーマー","Armor","ama",""
+"イエロー","Yellow","ieroo",""
+"インナー","Inner","inna"
+"ウィンク","Wink","uinku",""
+"ウインク","Wink","uinku"
+"ウエスト","Waist","uesuto",""
+"エプロン","Apron","epuron",""
+"オリーブ","Olive","oriibu",""
+"オレンジ","Orange","orenji",""
+"オーバー","Overcoat","o-ba-",""
+"カラバリ","ColorVariations","kara bari",""
+"ガーター","Garter","gata",""
+"キャップ","Cap","kyappu",""
+"クロッチ","Crotch","kurocchi",""
+"グリーン","Green","guriin",""
+"グルーブ","Groove","guruubu",""
+"グループ","Group","guruuppu",""
+"サンダル","Sandals","sandaru",""
+"シエスタ","Siesta","shiesuta",""
+"ショット","Shot","shotto"
+"ショーツ","Shorts","sho-tsu",""
+"ショート","Short","shoto"
+"シンプル","Simple","shinpuru"
+"ジーンズ","Jeans","ji-nzu",""
+"スカウタ","Scout","sukauta"
+"スカト横","SkirtSide",""
+"スカート","Skirt","sukaato",""
+"スカーフ","Scarf","suka-fu",""
+"スタンド","Stand"
+"スフィア","Sphere","sufia"
+"スペアナ","Spectrum","supeana",""
+"スポーツ","Sports","supōtsu",""
+"スライム","Slime","suraimu",""
+"スリッパ","Slippers","surippa",""
+"ス色変更","ChangeColor"
+"センター","Center","centaa",""
+"セーター","Sweater","se-ta-",""
+"セーラー","Sailor","sera"
+"ソックス","Socks","sokkusu"
+"チェーン","Chain","chēn",""
+"チョッキ","Vest","chokki",""
+"ツインテ","Twintail","tsuinte",""
+"トランプ","Cards","toranpu",""
+"ヌルテカ","Oiled","nuruteka",""
+"ネクタイ","Necktie","nekutai",""
+"ハイヒル","HighHeelShoes","haihiru"
+"ハイレグ","PantLegSlant"
+"ハナブー","PigNose"
+"ハﾟンツ","Pants"
+"バックル","Buckle",""
+"バニーイ","Bunny","banii",""
+"パジャマ","Pajamas","pajama",""
+"パンジー","Pansy","panjii",""
+"パンスト","Pantyhose","pan suto",""
+"パープル","Purple","paapuru",""
+"ブラウス","Blouse","burausu",""
+"ブラウン","Brown","buraun",""
+"ブラック","Black","burakku",""
+"ブラ表示","Bra"
+"ブリーフ","Briefs","buriifu",""
+"ブレザー","Blazer","bureza-",""
+"ブロンズ","Bronze","buronzu",""
+"ブロンド","Blond","burondo",""
+"ブローチ","Brooch",""
+"ベージュ","Beige","beeju",""
+"ホワイト","White","howaito",""
+"ボルドー","Bordeaux","borudoo",""
+"マゼンタ","Magenta","mazenta",""
+"マフラー","Scarf","mafuraa",""
+"マルーン","Maroon","maruun",""
+"ムラサキ","Murasaki"
+"メジャー","Tape","meja",""
+"モニター","Monitor","monita"
+"モミアゲ","Sideburn","momiage",""
+"ヤンデレ","Yandere","yandere"
+"ヨシズミ","PaintedEyebrows"
+"リベット","Rivet","ribetto",""
+"レオタド","Leotard","reotado",""
+"三つ編み","Braid","mitsuami",""
+"上歯消し","UpperTeethDisappear"
+"上睫毛短","UpperEyelashes"
+"下唇噛む","BiteLowerLip"
+"下歯消し","LowerTeethDisappear"
+"下睫毛短","LowerEyelashes"
+"不透明な","Opaque"
+"亞北ネル","Neru Akita
+鏡音リン""","Rin Kagamine"
+"体(上)","Body(Upper)"
+"体(下)","Body(Lower)"
+"体[上]","Body[Upper]"
+"体[下]","Body[Lower]"
+"体（下)","Body（Lower）"
+"先端丸め","RoundedTips",""
+"先端尖り","PointedTips"
+"全ての親","ParentNode","subete no oya",""
+"初音ミク","Hatsune Miku",""
+"前掛縮小","FrontReduce"
+"力アップ","PowerUp","chikara appu",""
+"半ズボン","ShortPants","hanzubon",""
+"反射下げ","ReflectionLower",""
+"口内後退","InnerMouthGoBack"
+"四季映姫","Shiki Eiki",""
+"垂れ防止","PreventSagging",""
+"大きな目","BigEyes"
+"巡音ルカ","Luka Megurine"
+"弱音ハク","Haku Yowane"
+"後掛縮小","BackReduce"
+"怒り漫符","Anger",""
+"操作中心","ControlNode","sousa chushin",""
+"明度変化","BrightnessChange"
+"明度変更","ChangeBrightness"
+"服色調整","CostumeColor","fuku shoku chōsei",""
+"歯上なし","UpperTeethGoUp"
+"歯上後退","UpperTeethGoBack"
+"歯下なし","LowerTeethGoBack"
+"歯下後退","LowerTeethGoBack"
+"歯無し上","TeethUpperGoUp","TeethNoneGoUp"
+"歯無し下","TeethUpperGoDown","TeethNoneGoDown"
+"火焔猫燐","Koakuma"
+"照り返す","Reflect"
+"眉尻下げ","EyebrowsGoDown"
+"紫カラー","YukariColor"
+"縦れ防止","PreventSagging","taterebotome",""
+"胸大き目","BigBreasts"
+"胸押さえ","Bust_guard",""
+"胸控え目","BreastsSmaller"
+"襟裏真紅","Dress"
+"貼フﾞラ","Pastie"
+"赤寄り""","Red","aka yori",""
+"足指そり","ToesBend"
+"足指曲げ","ToesBend"
+"鎖移動用","ChainMovement",""
+"鏡音レン","Len Kagamine"
+"青ざめる","Pale"
+"首の長さ","NeckLength"
+"髪色調整","HairColor","kami shoku chōsei",""
+"黒目拡大","PupilsDilate"
+"JKT","Jacket"
+"あぅう","Oh no!",""
+"あかな","aKanako"
+"あほ毛","Antenna","ahoge",""
+"いふく","Clothes","ifuku",""
+"うるる","Cry","uru uru",""
+"うわぎ","Coat","uwagi",""
+"おさげ","Pigtail","osage",""
+"がおー","Roar",""
+"がーん","Gloom","gaan",""
+"きいろ","Yellow","kiiro",""
+"きもの","Kimono","kimono",""
+"くわっ","EyesOpenWide"
+"くノ一","FemaleNinja","Kunoichi",""
+"こらっ","EyesAnger"
+"したぎ","Underwear","shitagi",""
+"じと目","▽▽Stare","jitome",""
+"せびろ","Suit","sebiro",""
+"その他","Other",""
+"だくみ","Mechanism","da kumi",""
+"ちゃり","Bicycle","chari"
+"ちゃん","Chan","chan"
+"ちょこ","Cup","choko"
+"てへっ","Lick","tehheh",""
+"とほほ","Tears",""
+"なごみ","Calm","nagomi",""
+"なぬっ","Coloring",""
+"なめる","Lick",""
+"なると","TriangleCloth"
+"にこり","Cheerful","nikori",""
+"にしし","Grin"
+"にしわ","Wrinkle","ni shiwa",""
+"にひひ","Grin"
+"にやり","Grin","ni yari",""
+"ねじり","Twist","nejiri"
+"はぁと","Heart","haato",""
+"はうっ","Close><"
+"はちゅ","○○BlankWhiteEyes","hachu",""
+"はんっ","Fool"
+"ぱんつ","Pants","pantsu",""
+"ひいろ","Scarlet","hiiro",""
+"ふとも","Suddenly","futo mo"
+"ふにゃ","Sleepy","fu nya",""
+"ふふん","Fool"
+"ふんっ","∧Fool"
+"ふーん","Fun","fuun",""
+"ぷくー","CheeksPuff"
+"への字","∧Regret"
+"ぺろっ","Lick",""
+"ほっぺ","Cheeks","hoppe"
+"ぼうし","Hat","boushi",""
+"ぽちゃ","Chubby"
+"まつげ","Eyelash","matsuge",""
+"まつ毛","Eyelashes"
+"みずぎ","Swimsuit","mizugi",""
+"みどり","Green","midori",""
+"めがね","Glasses","megane",""
+"ゆかた","SummerKimono","yukata",""
+"ゆびわ","Ring","yubiwa",""
+"よせる","Together"
+"りぼん","Ribbon","ri bon"
+"れ防止","PreventSagging",""
+"アクセ","Access","aku se",""
+"アヒル","Duck","ahiru",""
+"アホ毛","Antenna","ahoge",""
+"アリア","Aria","aria"
+"イヒヒ","Giggle","ihihi",""
+"イヤー","Ears","iya",""
+"イレグ","Leg","iregu",""
+"エッジ","Edge","ejji",""
+"カタナ","KatanaSword"
+"カノン","Kanon","kanon"
+"カバー","Cover","kaba"
+"カフス","Cuff","kafusu",""
+"カラー","Color","kara"
+"カーキ","Khaki","kaaki",""
+"ガール","Girl","garu",""
+"ガーン","Gloom","gaan",""
+"キリッ","Slant","kiritsu",""
+"グレー","Grey","guree",""
+"ケット","Jacket","ketto",""
+"コルク","Cork","koruku",""
+"コート","Coat","kooto",""
+"コード","Cord","koudo",""
+"サイズ","Size","saizu"
+"サビオ","Bandage","sahi o",""
+"サンバ","Samba","sanba",""
+"シアン","Cyan","shian",""
+"シャツ","Shirt","shatsu",""
+"シーム","Seam","shimu",""
+"ジップ","Zip","zippu",""
+"ジャケ","Jacket",""
+"スカト","Skirt","sukato",""
+"スノー","Snow","suno"
+"スーツ","Suit","su-tsu",""
+"ズボン","Trousers","zubon",""
+"セット","Set","setto",""
+"セピア","Sepia","sepia",""
+"センタ","Center","senta",""
+"ゾーマ","Zoom","zoma"
+"タイツ","Tights","taitsu",""
+"タイプ","Type","taipu"
+"ダミー","Dummy","damii",""
+"ダーク","Dark","daku"
+"テール","Tail","teru"
+"ドレス","Dress","doresu",""
+"ナイト","Night","naito"
+"ニヤリ","Grin","niyari"
+"ニーソ","Knee","niso"
+"ハの字","EyebrowsSlant"
+"ハトメ","ShoelaceHoles"
+"ハﾞニ","Honey"
+"バック","Back","bakku",""
+"バッジ","Badge",""
+"バニー","Bunny","banii",""
+"バンド","Band","bando",""
+"パッド","Pad","paddo"
+"パンツ","Pants","pantsu",""
+"パーツ","Part","paatsu",""
+"ヒップ","Hip","hippu",""
+"ヒール","HighHeelShoes","hiiru",""
+"ビキニ","Bikini","bikini",""
+"ピアス","Earring","piasu",""
+"ピンク","Pink","pinku",""
+"ピーチ","Peach","piichi",""
+"ファー","Fur","fa"
+"フォグ","Fog","fogu "
+"フリル","Frill","furiru",""
+"フﾞツ","Boots","futsu"
+"フﾞラ","Pastie","fura"
+"ブリム","Brim","burimu",""
+"ブリュ","Blue","buryu",""
+"ブルー","Blue","buruu",""
+"ブロチ","Brooch",""
+"ブーツ","Boots","buutsu",""
+"ヘアー","Hair","hea"
+"ベルト","Belt","beruto",""
+"ベール","BackVeil"
+"ボタン","Button","botan",""
+"ボディ","Body","bodi",""
+"ボトム","Bottom","botomu",""
+"ボーン","Bone","bon",""
+"マイク","Microphone","maiku"
+"マジデ","▽▽Stare","majide",""
+"マント","Cloak","manto",""
+"マーク","Mark","maku","Label"
+"ムキャ","Confused"
+"メイコ","Meiko",""
+"メイス","Mace","meisu"
+"メイド","Maid","meido",""
+"メイン","Main"
+"メガネ","Eyeglasses","megane",""
+"メタル","Metal","metaru"
+"モニタ","Monitor","monita"
+"モーフ","Morph",""
+"モーブ","Mauve","moobu",""
+"ライズ","Rise","raizu"
+"ライト","Light","raito ","water light controller"
+"ライン","Line","rain"
+"リボン","Ribbon","ribon",""
+"リング","Ring","ringu",""
+"ルビー","Ruby","rubi"
+"レオタ","Leotard","reota",""
+"レッド","Red","reddo",""
+"ローズ","Rose","roozu",""
+"上げて","Raise"
+"上半身","UpperBody","jouhanshin",""
+"上唇上","UpperLipsGoUp"
+"上唇下","UpperLipsGoDown"
+"上歯開","UpperTeethOpen"
+"下あご","Chin","shita ago",""
+"下半身","LowerBody","kahanshin",""
+"下唇上","LowerLipsGoUp"
+"下唇下","LowerLipsGoDown"
+"下歯開","LowerTeethOpen"
+"下瞼上","LowerEyelidsGoUp"
+"不機嫌","BadMood",""
+"二重の","Double","futaeno",""
+"人差指","IndexFinger","hitosashiyubi",""
+"先細り","Taper",""
+"兜縁銀","Helmet","kabuto en gin"
+"八雲紫","YakumoYukari"
+"十六夜","Izayoi",""
+"半漁人","HalfFishHalfMan"
+"口の中","InnerMouth"
+"口角拡","MouthWider"
+"向日葵","Sunflower","mukoaoi",""
+"周囲の","Ambient"
+"女戦士","FemaleWarrior","jo senshi",""
+"寄せて","Push"
+"寄せる","Together","yoseru",""
+"小悪魔","Koakuma",""
+"小野塚","Onozuka",""
+"尻の線","ButtLine"
+"幽々子","Yuyuko",""
+"後下髪","BackLowerHair"
+"悲しい","Sad",""
+"悲しみ","Sad"
+"拡大し","Expand"
+"明度変","ChangeBrightness"
+"未使用","Unused"
+"様私服","CasualClothes",""
+"止め具","Fasteners",""
+"歯上上","UpperTeethGoUp"
+"歯上下","TeethUpperGoDown"
+"歯下下","LowerTeethGoDown"
+"水かき","Web"
+"水着上","SwimsuitUpper"
+"水着下","SwimsuitLower"
+"注連縄","SacredShrineRope"
+"淡紅色","Pink","tankōshoku",""
+"無機質","HighlightsNone"
+"燕尾服","SwallowTailCoat",""
+"目が点","●●Eyes"
+"真面目","Serious",""
+"睫毛短","Eyelashes"
+"神奈子","Kanako"
+"移動用","Move","ido?",""
+"紐ぱん","String",""
+"紫カラ","YukariColor"
+"細める","Tighten","hosomeru",""
+"絆創膏","Bandage","",""
+"緑寄り","Green","midori yori",""
+"耳移動","EarMovement","mimi ido",""
+"胸補助","Bust_support",""
+"色変え","ChangeColor",""
+"色変化","ColorChange"
+"色変更","ChangeColor"
+"衣料品","Clothing","iryouhin",""
+"褌鋲銀","Loincloth","fundoshi byo gin"
+"西行寺","Saigyouji",""
+"見開く","Spread","mihiraku",""
+"調整用","Adjustment"
+"足指伸","ToesBend"
+"足首伸","AnkleBend"
+"透ジャ","Translucent","torushi?",""
+"鎖移動","ChainMovement","kusari ido",""
+"青ざめ","Pale","aozame",""
+"青冷め","BlueCold"
+"青寄り","Blue","ao yori",""
+"非透過","Opaque"
+"面荒さ","Roughness","men kō "
+"革ぱん","Leather",""
+"額冠金","FrameCrown","gaku kanmuri kin"
+"額冠銀","FrameCrown","gaku kanmuri gin"
+"髪留め","RubberBand",""
+"ﾞニー"," Knee","ni","Pluto new translations"
+"ω□","Omegabox",""
+"▽▽","▽▽Eyes"
+"あぁ","Aa"
+"あお","Blue","ao",""
+"あか","Red","aka",""
+"あご","Jaw","ago",""
+"あ白","aHijiri"
+"あ紫","aYukari"
+"いぃ","Ii"
+"い白","iHijiri"
+"い紫","iYukari"
+"うで","Arm","ude",""
+"うへ","Disgust","uueh"
+"う白","uHijiri"
+"う紫","uYukari"
+"えり","Collar","eri",""
+"えー","e-","e",""
+"え白","eHijiri"
+"え紫","eYukari"
+"お白","oHijiri"
+"お紫","oYukari"
+"かき","Oyster","kaki"
+"かな","Kanako"
+"きめ","Texture","kime"
+"くっ","Ugh",""
+"くつ","Shoes","kutsu",""
+"くろ","Black","kuro",""
+"げ右","Right","ge migi",""
+"げ左","Left","ge hidari",""
+"さき","Tips","saki",""
+"しろ","White","shiro",""
+"じと","Tooth","ji to",""
+"すじ","Sushi","suji",""
+"すそ","LowerClothes","suso",""
+"そで","Sleeve","sode",""
+"たか","Falcon","taka",""
+"たれ","Droopy","tare",""
+"ちち","Father","chichi"
+"つま","Toe","tsuma",""
+"つり","Slant","tsuri",""
+"てへ","Lick","tehheh",""
+"とげ","Thorn","toge",""
+"なし","None","nashi",""
+"なぬ","None","nanu",""
+"なめ","Lick","name",""
+"にこ","Smile","niko",""
+"ぬる","Oiled","nuru",""
+"はぁ","Slanted","haa"
+"はぅ","Close><","haau",""
+"ぱん","Pants"
+"ひざ","Knee","hiza",""
+"ひじ","Elbow","hiji",""
+"ぷぅ","CheeksPuff","puu",""
+"ぷく","CheeksPuff"
+"べー","TongueOut",""
+"ぺろ","Lick","pero",""
+"ほお","Cheeks"
+"ぽっ","Cruciform",""
+"ます","Gem"
+"まる","Gem","Winx Tecna"
+"よせ","Forward"
+"イー","GritsTeeth","eee"
+"エア","Air","ea"
+"オフ","Off","ofu",""
+"カラ","Color"
+"ガタ","Looseness","gata",""
+"サリ","Sari","sari"
+"スラ","Slime","sura"
+"セラ","Sailor"
+"タブ","ZipperTab"
+"タン","Tan","tan",""
+"ヌル","Oiled","nuru",""
+"ネコ","Cat","neko"
+"ネ毛","Hair",""
+"バク","Forward"
+"バニ","Bunny","bani",""
+"バフ","Buff","bafu",""
+"パフ","Puff","pafu"
+"パン","Bread","pan"
+"ヒル","HighHeelShoes","hiru",""
+"ヒレ","Fin","hire","HalfFishHalfMan"
+"ヒン","Back"
+"ブチ","Spotted","buchi",""
+"ブツ","Boots",""
+"ブラ","Bra","bura",""
+"ヘア","Hair","hea"
+"ベス","ChangeColorSlime","besu"
+"ベル","Belt"
+"ベー","TongueOut","behh"
+"ボト","Bottom"
+"マク","Mark","maku","Label"
+"ミク","Miku","miku",""
+"レオ","Leotard","reo",""
+"レグ","Leg","regu",""
+"ロー","Lower","ro",""
+"一括","All"
+"三角","Triangle"
+"上げ","Raise","age",""
+"上半","Upper",""
+"上着","Coat","uwagi",""
+"上紐","UpperString"
+"上部","UpperPart"
+"下げ","Lower","sage",""
+"下上","LowerGoUp"
+"下半","Lower",""
+"下着","Underwear","shitagi",""
+"下部","LowerPart"
+"下顎","Chin","shita ago",""
+"不満","Dissatisfied","fuman",""
+"両目","Eyes","ryoume",""
+"中指","MiddleFinger","nakayubi",""
+"丹色","Red","ni-iro",""
+"乳巨","BreastsLarger"
+"乳縮","BreastsSmaller"
+"二重","Double","futae",""
+"人指","IndexFinger","hitoyubi",""
+"人魂","Ghost","hitodama"
+"付け","Attachment",""
+"位置","Location"
+"体上","Bodyu",""
+"体下","Bodyl",""
+"傘を","Umbrella"
+"傘閉","UmbrellaClosed","kasa ?"
+"僧侶","PriestMonk","soryo"
+"僧衣","PriestFrock","soi"
+"先端","Tips","sakihaji",""
+"光彩","Pupils"
+"兜裏","Helmet","kabuto ura"
+"全照","FullLight","chon akira"
+"八坂","Yasaka",""
+"八意","Yagokoro",""
+"八重","Double","hachi ju"
+"八雲","Yakumo",""
+"六角","Hexagon","rokukaku",""
+"出す","TakeOut"
+"前掛","Front"
+"前髪","Bangs",""
+"勇儀","Yuugi",""
+"勾玉","Beads","magatama"
+"千桁","Thousand","sen keta"
+"単色","Monochrome"
+"収納","Hide","shūno",""
+"口上","MouthUpper"
+"口下","MouthLower"
+"口内","InnerMouth"
+"右ハ","RightHand",""
+"右乳","RightBreast"
+"右目","RightEye"
+"右胸","RightBreast"
+"右腕","RightArm"
+"右足","RightLeg"
+"司書","Librarian","shisho"
+"向日","Sunrise","muko",""
+"呆れ","Amazement",""
+"周り","Around"
+"和み","Calm","nagomi",""
+"咲夜","Sakuya",""
+"噛む","Bite","kamu",""
+"器具","Apparatus","kigu",""
+"回転","Rotate","kaiten",""
+"困り","Troubled","komari",""
+"困る","Sadness","komaru",""
+"土台","Base","dodai",""
+"夜戦","NightFight","yasen"
+"太い","Wider",""
+"女僧","FemalePriest","jo sō",""
+"女賢","WiseWoman","jo ken",""
+"学迷","Learning","gaku",""
+"宝石","Jewel"
+"小指","LittleFinger","koyubi",""
+"小町","Komachi",""
+"尻尾","Tail"
+"左ハ","LeftHand",""
+"左乳","LeftBreast"
+"左目","LeftEye"
+"左胸","LeftBreast"
+"左腕","LeftArm"
+"左足","LeftLeg"
+"巻物","Scroll"
+"帽子","Hat","boushi",""
+"幽々","Yuyuko"
+"幽香","Yuuka",""
+"広げ","Widen","hiroge",""
+"強さ","Power"
+"強調","Power"
+"影響","Influence","eikyo"
+"後ろ","Behind","ushiro",""
+"後掛","Back"
+"御柱","Pillar","go hashira"
+"怒り","Anger","ikari",""
+"怒る","GetAngry","okoru",""
+"怪訝","Suspicious"
+"悔悟","Repentance","kaigo"
+"感情","Emotion","kanjou",""
+"憂い","Grieving","urei",""
+"戦士","Warrior","senshi",""
+"戦棍","Fighting","sen ?"
+"扇子","Fan","sensu"
+"手袋","Gloves","tebukuro",""
+"手靴","GloveShoe"
+"手首","Wrist","tekubi",""
+"拡大","Larger "
+"指輪","Ring","yubiwa",""
+"掛け","Tabard"
+"換装","Replace",""
+"揺れ","Shake",""
+"数字","Number"
+"新規","New","shinnki",""
+"明変","ColorChange"
+"明度","ChangeColor","akirado","MingDegree"
+"星熊","Hoshiguma",""
+"映姫","Princess","utsu hime",""
+"暗い","Deep","kurai",""
+"暗く","Deep","kuraku",""
+"材料","Material"
+"材質","Material",""
+"条旗","Flag","jo ki"
+"染め","Blush","",""
+"桃色","Pink","momoiro",""
+"模様","ChangeColoredShapes","katagiyo",""
+"横髪","SideHair",""
+"橙色","Orange","daidaiiro",""
+"機質","Highlights"
+"気味","Expression","kimi"
+"水晶","Crystals","suisho",""
+"水着","Swimsuit","mizugi",""
+"永琳","Eirin",""
+"泣き","Cry","naki",""
+"泣上","Sorrow","kyuuue",""
+"泣前","BeforeCrying","kyuumae",""
+"泣大","CryingBig","kyuudai",""
+"泣小","Sorry","kyuushou",""
+"泣幅","CryingWidth","kyuuhaba",""
+"泣溜","Sadness","kyuutame",""
+"泣落","Sorrow","kyuuraku",""
+"浴衣","SummerKimono","yukata",""
+"涙袋","PuffyEyes","ruitai",""
+"深度","Depth","shindo "
+"測定","Measurement","Sokutei",""
+"潰れ","Smaller","tsubure",""
+"火焔","Flame","kaen"
+"灰色","Grey","haiiro",""
+"無し","None","nashi",""
+"照れ","Blush","tere",""
+"牙片","Fangs"
+"物理","Physics",""
+"狭く","Narrower","semaku",""
+"白い","White","shiroi",""
+"白蓮","Byakuren",""
+"盾金","Shield","tate kin"
+"眉ヘ","Eyebrows","mayu e",""
+"眉尻","Eyebrows","mayujiri",""
+"真面","Serious","majime",""
+"眼鏡","Glasses","megane",""
+"着物","Kimono","kimono",""
+"着用","Wear","chakuyo",""
+"瞳孔","Pupils","dookoo",""
+"瞳小","Pupils",""
+"神奈","Kanako"
+"移動","Move","ido",""
+"笑い","Smile","warai",""
+"笑う","Laugh",""
+"笑顔","Laugh"
+"筒長","CylinderLength","tsutsu cho"
+"細い","Thinner",""
+"細眉","Thin Eyebrows",""
+"紳士","Gentleman","shinshi",""
+"紺色","Navy_blue","koniro",""
+"経巻","Scroll","kyōkan",""
+"緋色","Scarlet","hiiro",""
+"線銃","Gun","sen jū",""
+"編改","Braids","hen aratame",""
+"縦長","PupilsHeight"
+"縮小","Shrink","syukusyou",""
+"置置","Location","",""
+"美鈴","Meiling",""
+"耳飾","Ear"
+"背広","Suit","sebiro",""
+"胴体","Body"
+"腰紐","Cordon",""
+"舞台","Stage","butai",""
+"色変","ColorChange"
+"英数","Alphanumerical","ei su"
+"茶色","Brown","chairo",""
+"草履","Sandals","zori"
+"葉収","Leaves","ha osamu",""
+"葉隠","Leaf"
+"薄い","Thinner",""
+"薬指","RingFinger","kusuriyubi",""
+"衣服","Clothes","ifuku",""
+"衣装","Costume","ishō",""
+"表情","Expressions",""
+"表示","Display","hyoji"
+"袖口","Wristband","sodeguchi",""
+"裏地","Lining","uraji"
+"補助","Aux","hojo",""
+"褌布","Loincloth","fundoshi nuno"
+"褐色","Brown","kasshoku",""
+"視点","View"
+"親指","Thumb","oyayubi",""
+"角度","Rotate","kakudo",""
+"角拡","Expand","sumi hiromu",""
+"触覚","Antenna",""
+"調整","Adjustment","tyousetsu",""
+"貼る","Pastie",""
+"賢者","WiseMan","kenja",""
+"赤い","Red","akai",""
+"赤面","Blush"
+"足首","Ankle","ashikubi",""
+"距離","Distance","kyori"
+"軌跡","Track","kiseki"
+"軍帽","MilitaryCap","gunbo",""
+"軍装","MilitaryUniform","gunso",""
+"軽装","LightClothing","keiso",""
+"軽量","Lightweight","keiryō",""
+"輪郭","Contour","rinkaku",""
+"追加","Append","tsuika",""
+"透過","Transparent","toruka",""
+"連動","Connector","rendo"
+"連結","Connector",""
+"運動","Movement","undo"
+"部分","Parts","bun",""
+"部部","Parts","bu",""
+"里柄","Pattern","sato gara"
+"金具","MetalFittings","kanagu"
+"金属","Metal","kinzoku",""
+"銀杏","GingkoLeaf","icho"
+"鎌軌","Scalpel","kama ?"
+"鎖骨","Clavicle","sakotsu",""
+"鎧上","StrapsUpper"
+"鎧下","StrapsLower"
+"鏡縁","MirrorEdge","kagami yukari"
+"鏡面","Specular","kyōmen "
+"閉じ","Closed"
+"開き","Open","hiraki",""
+"闇服","Dark","yami fuku",""
+"闇色","Dark","yami shoku",""
+"隠し","Hide"
+"隠る","Hide","komoru",""
+"青色","Blue green","ao-iro",""
+"革靴","LeatherShoes","kawagutsu",""
+"靴下","Socks","kutsushita",""
+"鞘抜","Sheath","saya ?"
+"順逆","Reverse","jungyaku"
+"頭巾","HatPart"
+"額冠","Crown","gaku kanmuri"
+"顏影","Shadow"
+"風見","Kazami",""
+"飾り","Accessory","kazari",""
+"首球","Neck"
+"驚き","Surprised"
+"髪の","Hair"
+"髪留","HairTie"
+"鳶色","Reddish_brown","tobiiro",""
+"黄色","Yellow","kiiro",""
+"黒い","Black","kuroi",""
+"鼠色","Grey","muzumi-iro",""
+"鼻筋","NoseRidge"
+"鼻血","Nosebleed"
+"龍珠","DragonBead","ryu tama"
+"ＩＫ","IK",""
+"×","××Eyes"
+"δ","Delta"
+"ω","ωOmega",""
+"д","дTrapezoid"
+"※","*"
+"∞","∞Infinity"
+"∧","∧Regret",""
+"■",""
+"□","□Box",""
+"▲","▲Triangle",""
+"○","○○Eyes"
+"◎","◎◎SpiralEyes"
+"●","●●Eyes"
+"あ","a","a",""
+"い","i","i",""
+"う","u","u",""
+"え","e","e",""
+"お","o","o",""
+"げ","Raise","ge"
+"し","","shi",""
+"じ","Tooth","ji"
+"そ","That"
+"と","And"
+"び","FacialExpression","bi",""
+"へ","∧Regret"
+"べ","TongueOut","beh"
+"み","Body","mi",""
+"を","wo","wo",""
+"ん","n","n",""
+"ハ","Slant","ha",""
+"ロ","Lower","ro",""
+"ワ","Wa","wa",""
+"・","*",""
+"一","One","ichi",""
+"万","Million","ban"
+"丈","Length","take"
+"三","Three","san"
+"上","GoUp","ue",""
+"下","GoDown","shita",""
+"不","Not"
+"並","Casual","nami",""
+"中","Middle","naka",""
+"丸","Circle","maru",""
+"乳","Breasts","titi",""
+"二","Two","ni",""
+"人","Person","hito"
+"他","Other","ta",""
+"付","Attachment","tsuke",""
+"伸","Extend","shin",""
+"位","Location","kurai",""
+"体","Body","karada",""
+"作","Work","saku"
+"傘","Umbrella","kasa"
+"元","Origin","moto",""
+"先","Tip","saki",""
+"光","Light","hikari",""
+"兎","Bunny","usagi",""
+"兜","Helmet","kabuto"
+"六","Six","roku",""
+"内","Inside","uchi",""
+"円","Circle","en",""
+"冷","Cold","hiya"
+"出","Out","izuru",""
+"刀","KatanaSword","katana"
+"分","Part","bun",""
+"前","Front","mae",""
+"剣","Sword","ken",""
+"化","Invisible"
+"十","Ten","ju"
+"千","Thousand","sen"
+"半","Half","han",""
+"南","South","minami"
+"厚","Thick","atsu",""
+"口","Mouth","kuchi",""
+"右","Right","migi",""
+"名","Name","na"
+"唇","Lips","kuchibiru",""
+"垂","Vertical","shide",""
+"型","Type","kata",""
+"基","Category","ki",""
+"変","Change",""
+"外","Outside","soto",""
+"大","Big","oo",""
+"太","Wide","dai",""
+"央","Center","hisashi",""
+"奥","Back","oku",""
+"子","Child","ko"
+"字","Character","ji",""
+"宝","Gem",""
+"小","Small","ko",""
+"尖","Tip","toga",""
+"尻","Butt","shiri",""
+"尾","Tail","bi",""
+"左","Left","hidari",""
+"巨","Large"
+"差","Difference","sa",""
+"巻","Book","maki",""
+"巾","Part","haba"
+"布","Cloth","nuno"
+"帯","Band","obi",""
+"幅","Width","haba",""
+"広","Wide","hiro",""
+"式","Physics","shiki"
+"強","Force","tsuyoshi",""
+"彩","ColorScheme","irodori",""
+"後","Back","ushiro",""
+"怒","Anger","ikari/do",""
+"悪","Evil","waru",""
+"悲","Sad"
+"愛","Love","ai",""
+"戻","Return","modo",""
+"手","Hand","te",""
+"押","Push"
+"拡","Expand","hiromu",""
+"括","TieFasten","kuku",""
+"指","Finger","yubi",""
+"捩","Twist","nejiri",""
+"揺","Shake","yura",""
+"散","Scatter"
+"数","Number","kazu"
+"文","Sentence","bun"
+"方","Person","kata"
+"旧","Old"
+"明","Color",""
+"星","Star","hoshi",""
+"時","Time","toki"
+"暗","Dark","kura"
+"曲","Song","kyoku"
+"更","More","sara"
+"服","Clothes","fuku",""
+"本","Book","hon",""
+"杖","Cane","tsue"
+"板","Board","ita"
+"枠","Frame","waku"
+"柄","Handle","e"
+"染","Blush","some",""
+"根","Base","ne",""
+"桁","Digit","keta"
+"桃","Pink","momo",""
+"桜","Cherry","sakura",""
+"棒","Stick","bo"
+"棘","Thorn",""
+"楓","MapleLeaf","kaede"
+"横","Horizontal","yoko",""
+"橋","Bridge","hashi"
+"歯","Teeth","ha",""
+"毛","Eyelashes","ke","Strand"
+"水","Water","mizu",""
+"汗","Sweat","ase",""
+"消","Disappear","sho"
+"涙","Tears","namida",""
+"潮","Tide","shio"
+"点","Tips","ten",""
+"無","None","mu",""
+"燕","Swallow","tsubame",""
+"爪","Nail","tsume"
+"片","Slanted"
+"牙","Fang"
+"物","Object","mono",""
+"狭","Narrow","sema",""
+"猫","Cat","neko","Hong Koakuma new translations"
+"玉","Ball","tama"
+"球","Ball","tama",""
+"生","Bare","nama",""
+"用","For","yō "
+"白","White","shiro",""
+"百","Hundred","hyaku"
+"目","Eyes","me",""
+"盾","Shield","tate"
+"眉","Eyebrows","mayu",""
+"眼","Eyes","gan",""
+"着","Wear","chaku",""
+"睫","Eyelashes","matsuge"
+"瞳","Pupils","hitomi",""
+"瞼","Eyelids","mabuta"
+"短","Tan","tan"
+"石","Stone","ishi",""
+"童","Child","warabe"
+"端","End","haji",""
+"笑","Laugh","emi",""
+"符","Marks","fu",""
+"筋","Muscle","suzi",""
+"筒","Cylinder","tsutsu"
+"箱","Box","hako"
+"紅","Hong",""
+"紐","String","himo",""
+"紫","Violet"
+"細","Thin","hoso",""
+"結","Connector","yui",""
+"網","Net","ami",""
+"緑","Green","midori",""
+"線","Line","sen"
+"縁","Edge","en"
+"縄","Rope","nawa"
+"縦","Vertical","tate",""
+"縮","Contract","chijimi"
+"置","Location","",""
+"羽","WingFeather","hane",""
+"耳","Ears","mimi",""
+"聖","Hijiri",""
+"肌","Skin","hada",""
+"肘","Elbow","hiji",""
+"股","CrotchThigh","mata"
+"肩","Shoulder","kata",""
+"背","Back","se",""
+"胴","Body","do"
+"胸","Breasts","mune",""
+"脛","Shin","hagi",""
+"腋","Armpit","waki",""
+"腕","Arms","ude",""
+"腰","Waist","koshi",""
+"腹","Belly","hara",""
+"腿","Thigh","momo",""
+"舌","Tongue","shita ago",""
+"舐","Lick","nebu",""
+"舞","Dance","mai",""
+"船","Boat","fune"
+"色","Color","iro",""
+"芯","Core","shin"
+"花","Flower","hana",""
+"英","English","ei"
+"茶","Brown","cha",""
+"葉","Leaf","ha",""
+"葵","Hollyhock","aoi",""
+"蓮","Lotus","hachisu",""
+"薄","Thin","susuki",""
+"藍","Ran",""
+"虹","Rainbow","niji",""
+"蛇","Snake","hebi",""
+"蝶","Butterfly","cho",""
+"衿","Collar","eri"
+"袖","Sleeve","sode",""
+"裏","Back","ura"
+"補","Increase","ho",""
+"裸","Bare","hadaka",""
+"裾","LowerClothes","suso",""
+"襟","Collar","eri",""
+"親","Parent","oya",""
+"角","Corner","kaku",""
+"貧","Small","hin",""
+"貼","Pastie","ha",""
+"赤","Red","aka",""
+"足","Legs","ashi",""
+"跡","Mark","ato"
+"踊","Dance","odori",""
+"身","Body",""
+"軍","Army","gun",""
+"軸","Axis","jiku",""
+"輪","Circles","wa",""
+"透","Transparent","toru",""
+"過","Over","ka",""
+"部","Part","bu",""
+"金","Gold","kimu"
+"銀","Silver","gin"
+"錐","Cone","kiri",""
+"鍔","Brim","tsuba"
+"鎌","Sickle","kama"
+"鎖","Chain","kusari",""
+"鎧","Straps","yoroi",""
+"鏡","Mirror","kagami"
+"長","Height"
+"閉","Closed"
+"開","Open","hiraki",""
+"間","Interval","kan",""
+"陰","Shadow","kage"
+"隠","Hide","komo",""
+"青","Blue","ao",""
+"非","Not","hi",""
+"革","Leather","kawa",""
+"靴","Shoes","kutsu",""
+"鞘","Sheath","saya"
+"頂","Top","itadaki",""
+"頬","Cheeks","ho",""
+"頭","Head","atama",""
+"頸","Neck"
+"額","Frame","gaku"
+"顎","Jaw","ago",""
+"顔","Face","kao",""
+"類","Type","rui",""
+"飾","Ornament","kazari"
+"首","Neck","kubi",""
+"驚","Surprised","odoroki"
+"骨","Bone","hone",""
+"髪","Hair","kami",""
+"魔","Demon","ma",""
+"黄","Yellow","ki"
+"黒","Black","kuro",""
+"鼻","Nose","hana"
+"！","!",""
+"＋","+",""
+"－","-",""
+"／","/",""
+"０","0",""
+"１","1",""
+"２","2",""
+"３","3",""
+"４","4",""
+"５","5",""
+"６","6",""
+"７","7",""
+"８","8",""
+"９","9",""
+"？","?",""
+"Ａ","A",""
+"Ｂ","B",""
+"Ｃ","C",""
+"Ｄ","D",""
+"Ｅ","E",""
+"Ｆ","F",""
+"Ｇ","G",""
+"Ｈ","H",""
+"Ｉ","I",""
+"Ｊ","J",""
+"Ｋ","K",""
+"Ｌ","L",""
+"Ｍ","M",""
+"Ｎ","N",""
+"Ｏ","O",""
+"Ｐ","P",""
+"Ｑ","Q",""
+"Ｒ","R",""
+"Ｓ","S",""
+"Ｔ","T",""
+"Ｕ","U",""
+"Ｖ","V",""
+"Ｗ","W",""
+"Ｘ","X",""
+"Ｙ","Y",""
+"Ｚ","Z",""
+"＿","_",""
+"ａ","a",""
+"ｂ","b",""
+"ｃ","c",""
+"ｄ","d",""
+"ｅ","e",""
+"ｆ","f",""
+"ｇ","g",""
+"ｈ","h",""
+"ｉ","i",""
+"ｊ","j",""
+"ｋ","k",""
+"ｌ","l",""
+"ｍ","m",""
+"ｎ","n",""
+"ｏ","o",""
+"ｐ","p",""
+"ｑ","q",""
+"ｒ","r",""
+"ｓ","s",""
+"ｔ","t",""
+"ｕ","u",""
+"ｖ","v",""
+"ｗ","w",""
+"ｘ","x",""
+"ｙ","y",""
+"ｚ","z",""
